@@ -1,0 +1,27 @@
+[{
+	"name": "Laffy Taffy",
+	"price": 100.0,
+	"packageDate": "07/12/2022",
+	"manufacturer": {
+		"name": "The Willy Wonka Candy Company",
+		"country": "UK"
+		}
+},
+{
+	"name": "Everlasting Gobstopper",
+	"price": 500.5,
+	"packageDate": "03/12/2022",
+	"manufacturer": {
+		"name": "The Willy Wonka Candy Company",
+		"country": "UK"
+		}
+},
+{
+	"name": "Wonka Bar",
+	"price": 200.0,
+	"packageDate": "04/12/2022",
+	"manufacturer": {
+		"name": "The Willy Wonka Candy Company",
+		"country": "UK"
+		}
+}]

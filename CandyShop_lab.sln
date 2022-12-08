@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandyShop", "CandyShop\CandyShop.csproj", "{725AF196-59BB-4854-868C-43FDA9E688F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{8F4A061E-C4F5-4444-A2C7-F59211A6B57B}"
+	ProjectSection(SolutionItems) = preProject
+		Candy_journal.txt = Candy_journal.txt
+		Candy_results.txt = Candy_results.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725AF196-59BB-4854-868C-43FDA9E688F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725AF196-59BB-4854-868C-43FDA9E688F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725AF196-59BB-4854-868C-43FDA9E688F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725AF196-59BB-4854-868C-43FDA9E688F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7640E492-6F5B-42B0-A954-F18F8F0AD5D6}
+	EndGlobalSection
+EndGlobal

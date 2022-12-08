@@ -1,0 +1,3 @@
+{"name":"Everlasting Gobstopper","price":500.5,"packageDate":"03.12.2022","manufacturer":{"name":"The Willy Wonka Candy Company","country":"UK"}}
+{"name":"Wonka Bar","price":100.0,"packageDate":"04.12.2022","manufacturer":{"name":"The Willy Wonka Candy Company","country":"UK"}}
+{"name":"Air Strawberry","price":312.0,"packageDate":"08.12.2022","manufacturer":{"name":"Proudnose&Co","country":"France"}}
